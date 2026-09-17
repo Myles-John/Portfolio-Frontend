@@ -9,7 +9,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer-content">
         <div className="footer-text">
-          © {new Date().getFullYear()} <strong>Myles-John Sammah</strong>. Built with <span>React</span>, <span>Flask</span> & <span>Vanilla CSS</span>.
+          © {new Date().getFullYear()} <strong>Myles-John Sammah</strong>
         </div>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: '1.25rem' }}>
